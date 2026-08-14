@@ -1,0 +1,15 @@
+{
+  "cloud": "gcp",
+  "instance_type": "e2-medium",
+  "dataset_rows": 284807,
+  "load_time_seconds": 36.6627,
+  "training_time_seconds": 1.273,
+  "best_iteration": 1,
+  "auc_roc": 0.951654,
+  "accuracy": 0.998947,
+  "precision": 0.655738,
+  "recall": 0.816327,
+  "f1_score": 0.727273,
+  "inference_latency_ms_one_row": 0.9158,
+  "inference_throughput_rows_per_second": 912093.02
+}
